@@ -1,0 +1,13 @@
+div {
+    width: 50%;
+}
+
+p {
+    float: left;
+    width: 50%;
+    padding: 5%;
+}
+
+.parent {
+    display: flex;
+}
